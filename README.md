@@ -13,7 +13,6 @@ This repository was created to showcase my analytical and technical skills (Exce
 ## Contacts
 
 * **Linkdin**: https://www.linkedin.com/in/iazharuddin
-
 * **Gmail** : azharuddin.3499@gmail.com
 
 
