@@ -2,6 +2,7 @@
 
 ## About ME
 Hello folks! my name is Azhar and this is my Portfolio.
+
 I am a recent graduate from Iqra University with a BS in Computer Science. I am a fresher and eager to learn new technologies and I have a strong interest in the field of data analysis.
 
 I have actively engaged in multiple data analysis projects, demonstrating my proficiency in data collection, processing,cleaning and visualization.
