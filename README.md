@@ -11,6 +11,6 @@ This repository was created to showcase my analytical and technical skills (Exce
 
 
 ## Contacts
----
-[Linkdin] : (https://www.linkedin.com/in/iazharuddin)
+
+**Linkdin**: https://www.linkedin.com/in/iazharuddin
 
